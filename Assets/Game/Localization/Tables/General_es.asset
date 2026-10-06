@@ -1,0 +1,378 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 411b1d80a68766046a3dca376d8090e2, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2390330952057618541
+  m_TableData:
+  - m_Id: 880000000000000035
+    m_Localized: x{quantity}
+    m_Metadata:
+      m_Items:
+      - rid: 2390330952057618541
+  - m_Id: 880000000000000036
+    m_Localized: Nivel {level}
+    m_Metadata:
+      m_Items:
+      - rid: 2390330952057618541
+  - m_Id: 880000000000000037
+    m_Localized: "\xA1NIVEL {level} COMPLETADO!"
+    m_Metadata:
+      m_Items:
+      - rid: 2390330952057618541
+  - m_Id: 880000000000000041
+    m_Localized: NIVEL {level}
+    m_Metadata:
+      m_Items:
+      - rid: 2390330952057618541
+  - m_Id: 20532064256
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114677411840
+    m_Localized: Reintentar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 456404135936
+    m_Localized: Tablero lleno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2808670482432
+    m_Localized: Cargando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415929604141056
+    m_Localized: Tablero lleno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419233239298048
+    m_Localized: nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000001
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000002
+    m_Localized: Inicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000003
+    m_Localized: "Pr\xF3ximamente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000004
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000005
+    m_Localized: SIN ANUNCIOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000006
+    m_Localized: SIN ANUNCIOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000007
+    m_Localized: "\xA1Quita los anuncios que interrumpen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000008
+    m_Localized: "\xA1Juega sin conexi\xF3n a Internet!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000009
+    m_Localized: Anuncios con premio opcionales.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000010
+    m_Localized: COMPRA CANCELADA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000011
+    m_Localized: Compra cancelada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000012
+    m_Localized: Aceptar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000013
+    m_Localized: Restaurar compras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000014
+    m_Localized: "Cont\xE1ctanos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000015
+    m_Localized: Privacidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000016
+    m_Localized: "Volver al men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000017
+    m_Localized: "Vibraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000018
+    m_Localized: Sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000019
+    m_Localized: AJUSTES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000020
+    m_Localized: "\xA1Recarga tus vidas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000021
+    m_Localized: OBTENER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000022
+    m_Localized: Recargar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000023
+    m_Localized: "Pr\xF3xima vida en:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000024
+    m_Localized: +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000025
+    m_Localized: "M\xC1X"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000026
+    m_Localized: "DIF\xCDCIL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000027
+    m_Localized: "MUY DIF\xCDCIL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000028
+    m_Localized: x3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000029
+    m_Localized: Packs de oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000030
+    m_Localized: "\xA1Empieza con oro y potentes potenciadores!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000031
+    m_Localized: "\xA1Un gran comienzo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000032
+    m_Localized: Pack de inicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000033
+    m_Localized: "\xA1Elimina para siempre los anuncios molestos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000034
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000038
+    m_Localized: RECOMPENSAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000039
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000040
+    m_Localized: Premio x2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000042
+    m_Localized: Perdiste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000043
+    m_Localized: Reintentar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000044
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000045
+    m_Localized: Rendirse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000046
+    m_Localized: Rendirse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000047
+    m_Localized: "\xA1Perder\xE1s 1 vida!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000048
+    m_Localized: MANO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000049
+    m_Localized: "Elige cualquier caja y \xFAsala al instante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000050
+    m_Localized: MEZCLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000051
+    m_Localized: "\xA1Mezcla las cajas para cambiar su orden!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000052
+    m_Localized: OVNI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000053
+    m_Localized: Retira las canicas de la cinta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000054
+    m_Localized: "\xA1Limpiar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000055
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000056
+    m_Localized: "\xA1SIN ESPACIO!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000057
+    m_Localized: Despeja el tablero y haz espacio para seguir jugando.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000058
+    m_Localized: "\xA1Seguir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000059
+    m_Localized: Oferta especial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000060
+    m_Localized: Continuar gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000061
+    m_Localized: Niv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21084741340917760
+    m_Localized: "OBT\xC9N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810227343360
+    m_Localized: "SIN CONEXI\xD3N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810277675008
+    m_Localized: "Necesitas Internet.\nComprueba que tienes\nuna conexi\xF3n activa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810277675009
+    m_Localized: Recargar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018821926912
+    m_Localized: "Error en la compra. Int\xE9ntalo de nuevo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869952
+    m_Localized: "Compra pendiente de aprobaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869953
+    m_Localized: Compras restauradas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869954
+    m_Localized: No hay compras que restaurar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869955
+    m_Localized: "Restauraci\xF3n fallida. Int\xE9ntalo de nuevo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869956
+    m_Localized: '{0} Comentarios {1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869957
+    m_Localized: Desconocido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29065322175557632
+    m_Localized: <color=#27A9E8>Toca</color> una <color=red>caja de canicas</color>
+      y combina su color con la caja de abajo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29070949941669888
+    m_Localized: <color=#27A9E8>Elige</color> una <color=red>caja de canicas</color>
+      para enviarlas a las <color=red>cajas del mismo color</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29073249057796096
+    m_Localized: <color=#27A9E8>Mezcla</color> las <color=red>cajas objetivo</color>
+      para crear <color=red>mejores combinaciones</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29076064635351040
+    m_Localized: "<color=#27A9E8>Vac\xEDa</color> la <color=red>cinta</color> enviando
+      canicas a <color=red>cajas del mismo color</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29083654014529536
+    m_Localized: "Usa <color=#27A9E8>Limpiar</color> para hacer sitio en la cinta.
+      \xA1Esta vez es <color=#42B96B>GRATIS</color>!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29083654043889664
+    m_Localized: GRATIS
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2390330952057618541
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 880000000000000035
+        - id: 880000000000000036
+        - id: 880000000000000037
+        - id: 880000000000000041

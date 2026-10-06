@@ -1,0 +1,640 @@
+de	ui_continue	Weiter
+de	ui_try_again	Erneut versuchen
+de	game_board_is_full	Spielfeld voll
+de	boot_loading	Wird geladen...
+de	gameboard_is_full	Spielfeld voll
+de	ui_level	Level
+de	menu.nav.shop	Shop
+de	menu.nav.home	Start
+de	menu.nav.coming_soon	Demnächst
+de	menu.play	Spielen
+de	no_ads.cta	WERBEFREI
+de	no_ads.title	WERBEFREI
+de	no_ads.remove_interstitials	Entferne Werbeunterbrechungen dauerhaft!
+de	no_ads.offline_play	Spiele auch ohne Internetverbindung!
+de	no_ads.rewarded_ads_remain	Freiwillige Belohnungsvideos bleiben verfügbar.
+de	store.purchase_cancelled.title	KAUF ABGEBROCHEN
+de	store.purchase_cancelled.description	Kauf abgebrochen.
+de	common.ok	OK
+de	settings.restore_purchases	Käufe wiederherstellen
+de	settings.contact	Kontakt
+de	settings.privacy	Datenschutzeinstellungen
+de	settings.return_to_menu	Zum Menü
+de	settings.haptics	Vibration
+de	settings.sound	Ton
+de	settings.title	EINSTELLUNGEN
+de	life.refill.title	Fülle deine Leben auf!
+de	life.refill.watch_ad	HOLEN
+de	life.refill.fill_now	Jetzt auffüllen
+de	life.refill.next_label	Nächstes Leben in:
+de	life.rewarded.amount	+{0}
+de	life.full	VOLL
+de	level.difficulty.hard	SCHWER
+de	level.difficulty.very_hard	SEHR SCHWER
+de	shop.starter_pack.quantity	x3
+de	shop.gold_packs	Goldpakete
+de	shop.starter_pack.description	Starte durch mit Gold und starken Boostern!
+de	shop.starter_pack.tagline	Ein toller Start!
+de	shop.starter_pack.name	Starterpaket
+de	shop.no_ads.description	Entferne störende Werbung dauerhaft!
+de	shop.title	Shop
+de	common.quantity	x{quantity}
+de	hud.level	Level {level}
+de	win.level_complete	LEVEL {level} GESCHAFFT!
+de	win.rewards	BELOHNUNGEN
+de	win.continue	Weiter
+de	win.reward_multiplier	x2 Belohnung
+de	lose.level_title	LEVEL {level}
+de	lose.description	Verloren
+de	lose.try_again	Erneut versuchen
+de	lose.continue_to_menu	Weiter
+de	give_up.title	Aufgeben
+de	give_up.confirm	Aufgeben
+de	give_up.life_warning	Du verlierst 1 Leben!
+de	booster.hand.name	HAND
+de	booster.hand.description	Wähle eine beliebige Box und nutze sie sofort.
+de	booster.shuffle.name	MISCHEN
+de	booster.shuffle.description	Mische die Boxen neu!
+de	booster.ufo.name	UFO
+de	booster.ufo.description	Entferne die Kugeln vom Förderband.
+de	cleanup_offer.cleanup	Aufräumen!
+de	cleanup_offer.quit	Verlassen
+de	fail_offer.title	KEIN PLATZ!
+de	fail_offer.description	Räume das Spielfeld auf und schaffe Platz zum Weiterspielen.
+de	fail_offer.play_on	Weiterspielen!
+de	fail_offer.offer_name	Sonderangebot
+de	fail_offer.free_cleanup	Kostenlos weiterspielen
+de	booster.unlock_level_prefix	Lv
+de	booster.claim	ABHOLEN
+de	no_connection.title	KEINE VERBINDUNG
+de	no_connection.description	Internet ist erforderlich.\nBitte prüfe, ob deine\nVerbindung aktiv ist.
+de	no_connection.refresh	Aktualisieren
+fr	ui_continue	Continuer
+fr	ui_try_again	Réessayer
+fr	game_board_is_full	Plateau plein
+fr	boot_loading	Chargement...
+fr	gameboard_is_full	Plateau plein
+fr	ui_level	niveau
+fr	menu.nav.shop	Boutique
+fr	menu.nav.home	Accueil
+fr	menu.nav.coming_soon	Bientôt
+fr	menu.play	Jouer
+fr	no_ads.cta	SANS PUB
+fr	no_ads.title	SANS PUB
+fr	no_ads.remove_interstitials	Supprime les pubs qui interrompent le jeu !
+fr	no_ads.offline_play	Joue sans connexion Internet !
+fr	no_ads.rewarded_ads_remain	Les vidéos récompensées restent facultatives.
+fr	store.purchase_cancelled.title	ACHAT ANNULÉ
+fr	store.purchase_cancelled.description	Achat annulé.
+fr	common.ok	OK
+fr	settings.restore_purchases	Restaurer les achats
+fr	settings.contact	Nous contacter
+fr	settings.privacy	Confidentialité
+fr	settings.return_to_menu	Retour au menu
+fr	settings.haptics	Vibrations
+fr	settings.sound	Sons
+fr	settings.title	PARAMÈTRES
+fr	life.refill.title	Fais le plein de vies !
+fr	life.refill.watch_ad	OBTENIR
+fr	life.refill.fill_now	Remplir
+fr	life.refill.next_label	Prochaine vie dans :
+fr	life.rewarded.amount	+{0}
+fr	life.full	MAX
+fr	level.difficulty.hard	DIFFICILE
+fr	level.difficulty.very_hard	TRÈS DIFFICILE
+fr	shop.starter_pack.quantity	x3
+fr	shop.gold_packs	Packs d'or
+fr	shop.starter_pack.description	Démarre en force avec de l'or et des boosters puissants !
+fr	shop.starter_pack.tagline	Un super départ !
+fr	shop.starter_pack.name	Pack de départ
+fr	shop.no_ads.description	Supprime définitivement les pubs gênantes !
+fr	shop.title	Boutique
+fr	common.quantity	x{quantity}
+fr	hud.level	Niveau {level}
+fr	win.level_complete	NIVEAU {level} TERMINÉ !
+fr	win.rewards	RÉCOMPENSES
+fr	win.continue	Continuer
+fr	win.reward_multiplier	Récompense x2
+fr	lose.level_title	NIVEAU {level}
+fr	lose.description	Perdu
+fr	lose.try_again	Réessayer
+fr	lose.continue_to_menu	Continuer
+fr	give_up.title	Abandonner
+fr	give_up.confirm	Abandonner
+fr	give_up.life_warning	Tu perdras 1 vie !
+fr	booster.hand.name	MAIN
+fr	booster.hand.description	Choisis une boîte et utilise-la tout de suite.
+fr	booster.shuffle.name	MÉLANGER
+fr	booster.shuffle.description	Mélange les boîtes pour changer leur ordre !
+fr	booster.ufo.name	OVNI
+fr	booster.ufo.description	Retire les billes du tapis roulant.
+fr	cleanup_offer.cleanup	Nettoyer !
+fr	cleanup_offer.quit	Quitter
+fr	fail_offer.title	PLUS DE PLACE !
+fr	fail_offer.description	Vide le plateau pour faire de la place et continuer.
+fr	fail_offer.play_on	Continuer !
+fr	fail_offer.offer_name	Offre spéciale
+fr	fail_offer.free_cleanup	Continuer gratuitement
+fr	booster.unlock_level_prefix	Niv
+fr	booster.claim	RÉCUPÉRER
+fr	no_connection.title	HORS CONNEXION
+fr	no_connection.description	Internet est nécessaire.\nVérifie que ta connexion\nest bien active.
+fr	no_connection.refresh	Actualiser
+es	ui_continue	Continuar
+es	ui_try_again	Reintentar
+es	game_board_is_full	Tablero lleno
+es	boot_loading	Cargando...
+es	gameboard_is_full	Tablero lleno
+es	ui_level	nivel
+es	menu.nav.shop	Tienda
+es	menu.nav.home	Inicio
+es	menu.nav.coming_soon	Próximamente
+es	menu.play	Jugar
+es	no_ads.cta	SIN ANUNCIOS
+es	no_ads.title	SIN ANUNCIOS
+es	no_ads.remove_interstitials	¡Elimina para siempre los anuncios que interrumpen!
+es	no_ads.offline_play	¡Juega sin conexión a Internet!
+es	no_ads.rewarded_ads_remain	Los anuncios con recompensa siguen siendo opcionales.
+es	store.purchase_cancelled.title	COMPRA CANCELADA
+es	store.purchase_cancelled.description	Compra cancelada.
+es	common.ok	Aceptar
+es	settings.restore_purchases	Restaurar compras
+es	settings.contact	Contáctanos
+es	settings.privacy	Privacidad
+es	settings.return_to_menu	Volver al menú
+es	settings.haptics	Vibración
+es	settings.sound	Sonido
+es	settings.title	AJUSTES
+es	life.refill.title	¡Recarga tus vidas!
+es	life.refill.watch_ad	OBTENER
+es	life.refill.fill_now	Recargar
+es	life.refill.next_label	Próxima vida en:
+es	life.rewarded.amount	+{0}
+es	life.full	MÁX
+es	level.difficulty.hard	DIFÍCIL
+es	level.difficulty.very_hard	MUY DIFÍCIL
+es	shop.starter_pack.quantity	x3
+es	shop.gold_packs	Packs de oro
+es	shop.starter_pack.description	¡Empieza con oro y potentes potenciadores!
+es	shop.starter_pack.tagline	¡Un gran comienzo!
+es	shop.starter_pack.name	Pack de inicio
+es	shop.no_ads.description	¡Elimina para siempre los anuncios molestos!
+es	shop.title	Tienda
+es	common.quantity	x{quantity}
+es	hud.level	Nivel {level}
+es	win.level_complete	¡NIVEL {level} COMPLETADO!
+es	win.rewards	RECOMPENSAS
+es	win.continue	Continuar
+es	win.reward_multiplier	Recompensa x2
+es	lose.level_title	NIVEL {level}
+es	lose.description	Has perdido
+es	lose.try_again	Reintentar
+es	lose.continue_to_menu	Continuar
+es	give_up.title	Rendirse
+es	give_up.confirm	Rendirse
+es	give_up.life_warning	¡Perderás 1 vida!
+es	booster.hand.name	MANO
+es	booster.hand.description	Elige cualquier caja y úsala al instante.
+es	booster.shuffle.name	MEZCLAR
+es	booster.shuffle.description	¡Mezcla las cajas para cambiar su orden!
+es	booster.ufo.name	OVNI
+es	booster.ufo.description	Retira las canicas de la cinta.
+es	cleanup_offer.cleanup	¡Limpiar!
+es	cleanup_offer.quit	Salir
+es	fail_offer.title	¡SIN ESPACIO!
+es	fail_offer.description	Despeja el tablero y haz espacio para seguir jugando.
+es	fail_offer.play_on	¡Seguir!
+es	fail_offer.offer_name	Oferta especial
+es	fail_offer.free_cleanup	Continuar gratis
+es	booster.unlock_level_prefix	Niv
+es	booster.claim	RECLAMAR
+es	no_connection.title	SIN CONEXIÓN
+es	no_connection.description	Necesitas Internet.\nComprueba que tienes\nuna conexión activa.
+es	no_connection.refresh	Actualizar
+it	ui_continue	Continua
+it	ui_try_again	Riprova
+it	game_board_is_full	Tabellone pieno
+it	boot_loading	Caricamento...
+it	gameboard_is_full	Tabellone pieno
+it	ui_level	livello
+it	menu.nav.shop	Negozio
+it	menu.nav.home	Home
+it	menu.nav.coming_soon	In arrivo
+it	menu.play	Gioca
+it	no_ads.cta	SENZA PUBBLICITÀ
+it	no_ads.title	SENZA PUBBLICITÀ
+it	no_ads.remove_interstitials	Elimina per sempre le interruzioni pubblicitarie!
+it	no_ads.offline_play	Gioca anche senza connessione Internet!
+it	no_ads.rewarded_ads_remain	I video premio restano facoltativi.
+it	store.purchase_cancelled.title	ACQUISTO ANNULLATO
+it	store.purchase_cancelled.description	Acquisto annullato.
+it	common.ok	OK
+it	settings.restore_purchases	Ripristina acquisti
+it	settings.contact	Contattaci
+it	settings.privacy	Privacy
+it	settings.return_to_menu	Torna al menu
+it	settings.haptics	Vibrazione
+it	settings.sound	Suoni
+it	settings.title	IMPOSTAZIONI
+it	life.refill.title	Fai il pieno di vite!
+it	life.refill.watch_ad	OTTIENI
+it	life.refill.fill_now	Ricarica
+it	life.refill.next_label	Prossima vita tra:
+it	life.rewarded.amount	+{0}
+it	life.full	MAX
+it	level.difficulty.hard	DIFFICILE
+it	level.difficulty.very_hard	MOLTO DIFFICILE
+it	shop.starter_pack.quantity	x3
+it	shop.gold_packs	Pacchetti d'oro
+it	shop.starter_pack.description	Parti alla grande con oro e potenti aiuti!
+it	shop.starter_pack.tagline	Un ottimo inizio!
+it	shop.starter_pack.name	Pacchetto iniziale
+it	shop.no_ads.description	Elimina per sempre la pubblicità fastidiosa!
+it	shop.title	Negozio
+it	common.quantity	x{quantity}
+it	hud.level	Livello {level}
+it	win.level_complete	LIVELLO {level} COMPLETATO!
+it	win.rewards	RICOMPENSE
+it	win.continue	Continua
+it	win.reward_multiplier	Ricompensa x2
+it	lose.level_title	LIVELLO {level}
+it	lose.description	Hai perso
+it	lose.try_again	Riprova
+it	lose.continue_to_menu	Continua
+it	give_up.title	Abbandona
+it	give_up.confirm	Abbandona
+it	give_up.life_warning	Perderai 1 vita!
+it	booster.hand.name	MANO
+it	booster.hand.description	Scegli una scatola e usala subito.
+it	booster.shuffle.name	MESCOLA
+it	booster.shuffle.description	Mescola le scatole per cambiare il loro ordine!
+it	booster.ufo.name	UFO
+it	booster.ufo.description	Rimuovi le biglie dal nastro.
+it	cleanup_offer.cleanup	Pulisci!
+it	cleanup_offer.quit	Esci
+it	fail_offer.title	SPAZIO ESAURITO!
+it	fail_offer.description	Libera il tabellone e fai spazio per continuare a giocare.
+it	fail_offer.play_on	Continua!
+it	fail_offer.offer_name	Offerta speciale
+it	fail_offer.free_cleanup	Continua gratis
+it	booster.unlock_level_prefix	Liv
+it	booster.claim	RISCATTA
+it	no_connection.title	NESSUNA CONNESSIONE
+it	no_connection.description	È necessaria una connessione.\nAssicurati di avere\nInternet attivo.
+it	no_connection.refresh	Aggiorna
+pt-PT	ui_continue	Continuar
+pt-PT	ui_try_again	Tentar de novo
+pt-PT	game_board_is_full	Tabuleiro cheio
+pt-PT	boot_loading	A carregar...
+pt-PT	gameboard_is_full	Tabuleiro cheio
+pt-PT	ui_level	nível
+pt-PT	menu.nav.shop	Loja
+pt-PT	menu.nav.home	Início
+pt-PT	menu.nav.coming_soon	Em breve
+pt-PT	menu.play	Jogar
+pt-PT	no_ads.cta	SEM ANÚNCIOS
+pt-PT	no_ads.title	SEM ANÚNCIOS
+pt-PT	no_ads.remove_interstitials	Remove de vez os anúncios que interrompem o jogo!
+pt-PT	no_ads.offline_play	Joga sem ligação à Internet!
+pt-PT	no_ads.rewarded_ads_remain	Os anúncios com recompensa continuam opcionais.
+pt-PT	store.purchase_cancelled.title	COMPRA CANCELADA
+pt-PT	store.purchase_cancelled.description	Compra cancelada.
+pt-PT	common.ok	OK
+pt-PT	settings.restore_purchases	Restaurar compras
+pt-PT	settings.contact	Contacta-nos
+pt-PT	settings.privacy	Privacidade
+pt-PT	settings.return_to_menu	Voltar ao menu
+pt-PT	settings.haptics	Vibração
+pt-PT	settings.sound	Som
+pt-PT	settings.title	DEFINIÇÕES
+pt-PT	life.refill.title	Recarrega as tuas vidas!
+pt-PT	life.refill.watch_ad	OBTER
+pt-PT	life.refill.fill_now	Recarregar
+pt-PT	life.refill.next_label	Próxima vida em:
+pt-PT	life.rewarded.amount	+{0}
+pt-PT	life.full	MÁX
+pt-PT	level.difficulty.hard	DIFÍCIL
+pt-PT	level.difficulty.very_hard	MUITO DIFÍCIL
+pt-PT	shop.starter_pack.quantity	x3
+pt-PT	shop.gold_packs	Pacotes de ouro
+pt-PT	shop.starter_pack.description	Começa em grande com ouro e ajudas poderosas!
+pt-PT	shop.starter_pack.tagline	Um excelente começo!
+pt-PT	shop.starter_pack.name	Pacote inicial
+pt-PT	shop.no_ads.description	Remove de vez todos os anúncios incómodos!
+pt-PT	shop.title	Loja
+pt-PT	common.quantity	x{quantity}
+pt-PT	hud.level	Nível {level}
+pt-PT	win.level_complete	NÍVEL {level} CONCLUÍDO!
+pt-PT	win.rewards	RECOMPENSAS
+pt-PT	win.continue	Continuar
+pt-PT	win.reward_multiplier	Recompensa x2
+pt-PT	lose.level_title	NÍVEL {level}
+pt-PT	lose.description	Perdeste
+pt-PT	lose.try_again	Tentar de novo
+pt-PT	lose.continue_to_menu	Continuar
+pt-PT	give_up.title	Desistir
+pt-PT	give_up.confirm	Desistir
+pt-PT	give_up.life_warning	Vais perder 1 vida!
+pt-PT	booster.hand.name	MÃO
+pt-PT	booster.hand.description	Escolhe uma caixa e usa-a de imediato.
+pt-PT	booster.shuffle.name	BARALHAR
+pt-PT	booster.shuffle.description	Baralha as caixas para mudar a ordem!
+pt-PT	booster.ufo.name	OVNI
+pt-PT	booster.ufo.description	Retira as berlindes do tapete rolante.
+pt-PT	cleanup_offer.cleanup	Limpar!
+pt-PT	cleanup_offer.quit	Sair
+pt-PT	fail_offer.title	SEM ESPAÇO!
+pt-PT	fail_offer.description	Liberta espaço no tabuleiro para continuares a jogar.
+pt-PT	fail_offer.play_on	Continuar!
+pt-PT	fail_offer.offer_name	Oferta especial
+pt-PT	fail_offer.free_cleanup	Continuar de graça
+pt-PT	booster.unlock_level_prefix	Nv
+pt-PT	booster.claim	RECEBER
+pt-PT	no_connection.title	SEM LIGAÇÃO
+pt-PT	no_connection.description	É necessária Internet.\nVerifica se tens\numa ligação ativa.
+pt-PT	no_connection.refresh	Atualizar
+ar	ui_continue	متابعة
+ar	ui_try_again	حاول مجددا
+ar	game_board_is_full	اللوحة ممتلئة
+ar	boot_loading	جار التحميل...
+ar	gameboard_is_full	اللوحة ممتلئة
+ar	ui_level	مستوى
+ar	menu.nav.shop	المتجر
+ar	menu.nav.home	الرئيسية
+ar	menu.nav.coming_soon	قريبا
+ar	menu.play	العب
+ar	no_ads.cta	بلا إعلانات
+ar	no_ads.title	بلا إعلانات
+ar	no_ads.remove_interstitials	أزل الإعلانات التي تقاطع اللعب نهائيا!
+ar	no_ads.offline_play	العب دون اتصال بالإنترنت!
+ar	no_ads.rewarded_ads_remain	تبقى إعلانات المكافآت اختيارية.
+ar	store.purchase_cancelled.title	ألغي الشراء
+ar	store.purchase_cancelled.description	تم إلغاء الشراء.
+ar	common.ok	حسنا
+ar	settings.restore_purchases	استعادة المشتريات
+ar	settings.contact	تواصل معنا
+ar	settings.privacy	إعدادات الخصوصية
+ar	settings.return_to_menu	العودة للقائمة
+ar	settings.haptics	الاهتزاز
+ar	settings.sound	الصوت
+ar	settings.title	الإعدادات
+ar	life.refill.title	جدد محاولاتك!
+ar	life.refill.watch_ad	احصل
+ar	life.refill.fill_now	تجديد الآن
+ar	life.refill.next_label	المحاولة التالية بعد:
+ar	life.rewarded.amount	+{0}
+ar	life.full	مكتمل
+ar	level.difficulty.hard	صعب
+ar	level.difficulty.very_hard	صعب جدا
+ar	shop.starter_pack.quantity	x3
+ar	shop.gold_packs	حزم الذهب
+ar	shop.starter_pack.description	ابدأ بقوة مع الذهب والمعززات القوية!
+ar	shop.starter_pack.tagline	بداية رائعة!
+ar	shop.starter_pack.name	حزمة البداية
+ar	shop.no_ads.description	أزل كل الإعلانات المزعجة نهائيا!
+ar	shop.title	المتجر
+ar	common.quantity	x{quantity}
+ar	hud.level	المستوى {level}
+ar	win.level_complete	اكتمل المستوى {level}!
+ar	win.rewards	المكافآت
+ar	win.continue	متابعة
+ar	win.reward_multiplier	مكافأة x2
+ar	lose.level_title	المستوى {level}
+ar	lose.description	خسرت
+ar	lose.try_again	حاول مجددا
+ar	lose.continue_to_menu	متابعة
+ar	give_up.title	استسلام
+ar	give_up.confirm	استسلام
+ar	give_up.life_warning	ستخسر محاولة واحدة!
+ar	booster.hand.name	اليد
+ar	booster.hand.description	اختر أي صندوق واستخدمه فورا.
+ar	booster.shuffle.name	خلط
+ar	booster.shuffle.description	اخلط الصناديق لتغيير ترتيبها!
+ar	booster.ufo.name	الطبق الطائر
+ar	booster.ufo.description	أزل الكرات من الحزام الناقل.
+ar	cleanup_offer.cleanup	تنظيف!
+ar	cleanup_offer.quit	خروج
+ar	fail_offer.title	لا توجد مساحة!
+ar	fail_offer.description	أفرغ اللوحة ووفر مساحة لمواصلة اللعب.
+ar	fail_offer.play_on	واصل اللعب!
+ar	fail_offer.offer_name	عرض خاص
+ar	fail_offer.free_cleanup	تابع المستوى مجانا
+ar	booster.unlock_level_prefix	مستوى
+ar	booster.claim	استلام
+ar	no_connection.title	لا يوجد اتصال
+ar	no_connection.description	يلزم الاتصال بالإنترنت.\nيرجى التأكد من أن\nالاتصال يعمل.
+ar	no_connection.refresh	تحديث
+pl	ui_continue	Kontynuuj
+pl	ui_try_again	Spróbuj ponownie
+pl	game_board_is_full	Plansza pełna
+pl	boot_loading	Wczytywanie...
+pl	gameboard_is_full	Plansza pełna
+pl	ui_level	poziom
+pl	menu.nav.shop	Sklep
+pl	menu.nav.home	Start
+pl	menu.nav.coming_soon	Wkrótce
+pl	menu.play	Graj
+pl	no_ads.cta	BEZ REKLAM
+pl	no_ads.title	BEZ REKLAM
+pl	no_ads.remove_interstitials	Usuń na stałe reklamy przerywające grę!
+pl	no_ads.offline_play	Graj bez połączenia z internetem!
+pl	no_ads.rewarded_ads_remain	Reklamy z nagrodami pozostają opcjonalne.
+pl	store.purchase_cancelled.title	ZAKUP ANULOWANY
+pl	store.purchase_cancelled.description	Zakup anulowany.
+pl	common.ok	OK
+pl	settings.restore_purchases	Przywróć zakupy
+pl	settings.contact	Kontakt
+pl	settings.privacy	Prywatność
+pl	settings.return_to_menu	Wróć do menu
+pl	settings.haptics	Wibracje
+pl	settings.sound	Dźwięki
+pl	settings.title	USTAWIENIA
+pl	life.refill.title	Uzupełnij życia!
+pl	life.refill.watch_ad	ODBIERZ
+pl	life.refill.fill_now	Uzupełnij
+pl	life.refill.next_label	Następne życie za:
+pl	life.rewarded.amount	+{0}
+pl	life.full	MAKS
+pl	level.difficulty.hard	TRUDNY
+pl	level.difficulty.very_hard	BARDZO TRUDNY
+pl	shop.starter_pack.quantity	x3
+pl	shop.gold_packs	Pakiety złota
+pl	shop.starter_pack.description	Zacznij z zapasem złota i potężnymi dopalaczami!
+pl	shop.starter_pack.tagline	Świetny początek!
+pl	shop.starter_pack.name	Pakiet startowy
+pl	shop.no_ads.description	Usuń na stałe wszystkie uciążliwe reklamy!
+pl	shop.title	Sklep
+pl	common.quantity	x{quantity}
+pl	hud.level	Poziom {level}
+pl	win.level_complete	POZIOM {level} UKOŃCZONY!
+pl	win.rewards	NAGRODY
+pl	win.continue	Kontynuuj
+pl	win.reward_multiplier	Nagroda x2
+pl	lose.level_title	POZIOM {level}
+pl	lose.description	Przegrana
+pl	lose.try_again	Spróbuj ponownie
+pl	lose.continue_to_menu	Kontynuuj
+pl	give_up.title	Poddaj się
+pl	give_up.confirm	Poddaj się
+pl	give_up.life_warning	Stracisz 1 życie!
+pl	booster.hand.name	RĘKA
+pl	booster.hand.description	Wybierz dowolne pudełko i użyj go od razu.
+pl	booster.shuffle.name	TASOWANIE
+pl	booster.shuffle.description	Przetasuj pudełka i zmień ich kolejność!
+pl	booster.ufo.name	UFO
+pl	booster.ufo.description	Usuń kulki z taśmy.
+pl	cleanup_offer.cleanup	Wyczyść!
+pl	cleanup_offer.quit	Wyjdź
+pl	fail_offer.title	BRAK MIEJSCA!
+pl	fail_offer.description	Oczyść planszę i zrób miejsce, by grać dalej.
+pl	fail_offer.play_on	Graj dalej!
+pl	fail_offer.offer_name	Oferta specjalna
+pl	fail_offer.free_cleanup	Kontynuuj za darmo
+pl	booster.unlock_level_prefix	Poz
+pl	booster.claim	ODBIERZ
+pl	no_connection.title	BRAK POŁĄCZENIA
+pl	no_connection.description	Wymagany jest internet.\nUpewnij się, że masz\naktywne połączenie.
+pl	no_connection.refresh	Odśwież
+en	store_purchase_failed	Purchase failed. Please try again.
+en	store_purchase_deferred	Purchase awaiting approval.
+en	store_restore_succeeded	Purchases restored.
+en	store_restore_nothing	No purchases to restore.
+en	store_restore_failed	Couldn't restore purchases. Please try again.
+en	support.feedback_subject	{0} Feedback {1}
+en	support.unknown	Unknown
+tr	store_purchase_failed	Satın alma başarısız. Lütfen tekrar dene.
+tr	store_purchase_deferred	Satın alma onay bekliyor.
+tr	store_restore_succeeded	Satın alınanlar geri yüklendi.
+tr	store_restore_nothing	Geri yüklenecek satın alma yok.
+tr	store_restore_failed	Satın alınanlar geri yüklenemedi. Lütfen tekrar dene.
+tr	support.feedback_subject	{0} Geri Bildirim {1}
+tr	support.unknown	Bilinmiyor
+de	store_purchase_failed	Kauf fehlgeschlagen. Bitte versuche es erneut.
+de	store_purchase_deferred	Kauf wartet auf Genehmigung.
+de	store_restore_succeeded	Käufe wiederhergestellt.
+de	store_restore_nothing	Keine Käufe zum Wiederherstellen.
+de	store_restore_failed	Käufe konnten nicht wiederhergestellt werden. Bitte versuche es erneut.
+de	support.feedback_subject	{0} Feedback {1}
+de	support.unknown	Unbekannt
+fr	store_purchase_failed	Échec de l'achat. Réessaie.
+fr	store_purchase_deferred	L'achat attend une autorisation.
+fr	store_restore_succeeded	Achats restaurés.
+fr	store_restore_nothing	Aucun achat à restaurer.
+fr	store_restore_failed	Impossible de restaurer les achats. Réessaie.
+fr	support.feedback_subject	{0} Commentaires {1}
+fr	support.unknown	Inconnu
+es	store_purchase_failed	Error en la compra. Inténtalo de nuevo.
+es	store_purchase_deferred	Compra pendiente de aprobación.
+es	store_restore_succeeded	Compras restauradas.
+es	store_restore_nothing	No hay compras que restaurar.
+es	store_restore_failed	No se pudieron restaurar las compras. Inténtalo de nuevo.
+es	support.feedback_subject	{0} Comentarios {1}
+es	support.unknown	Desconocido
+it	store_purchase_failed	Acquisto non riuscito. Riprova.
+it	store_purchase_deferred	Acquisto in attesa di approvazione.
+it	store_restore_succeeded	Acquisti ripristinati.
+it	store_restore_nothing	Nessun acquisto da ripristinare.
+it	store_restore_failed	Impossibile ripristinare gli acquisti. Riprova.
+it	support.feedback_subject	{0} Commenti {1}
+it	support.unknown	Sconosciuto
+pt-PT	store_purchase_failed	A compra falhou. Tenta novamente.
+pt-PT	store_purchase_deferred	A compra aguarda aprovação.
+pt-PT	store_restore_succeeded	Compras restauradas.
+pt-PT	store_restore_nothing	Não há compras para restaurar.
+pt-PT	store_restore_failed	Não foi possível restaurar as compras. Tenta novamente.
+pt-PT	support.feedback_subject	{0} Comentários {1}
+pt-PT	support.unknown	Desconhecido
+pt-BR	store_purchase_failed	Falha na compra. Tente de novo.
+pt-BR	store_purchase_deferred	Compra aguardando aprovação.
+pt-BR	store_restore_succeeded	Compras restauradas.
+pt-BR	store_restore_nothing	Nenhuma compra para restaurar.
+pt-BR	store_restore_failed	Não foi possível restaurar as compras. Tente de novo.
+pt-BR	support.feedback_subject	{0} Comentários {1}
+pt-BR	support.unknown	Desconhecido
+id	store_purchase_failed	Pembelian gagal. Coba lagi.
+id	store_purchase_deferred	Pembelian menunggu persetujuan.
+id	store_restore_succeeded	Pembelian dipulihkan.
+id	store_restore_nothing	Tidak ada pembelian untuk dipulihkan.
+id	store_restore_failed	Pembelian tidak dapat dipulihkan. Coba lagi.
+id	support.feedback_subject	{0} Masukan {1}
+id	support.unknown	Tidak diketahui
+ar	store_purchase_failed	تعذر الشراء. حاول مجددا.
+ar	store_purchase_deferred	الشراء بانتظار الموافقة.
+ar	store_restore_succeeded	تمت استعادة المشتريات.
+ar	store_restore_nothing	لا توجد مشتريات لاستعادتها.
+ar	store_restore_failed	تعذرت استعادة المشتريات. حاول مجددا.
+ar	support.feedback_subject	{0} ملاحظات {1}
+ar	support.unknown	غير معروف
+pl	store_purchase_failed	Zakup nie powiódł się. Spróbuj ponownie.
+pl	store_purchase_deferred	Zakup czeka na zatwierdzenie.
+pl	store_restore_succeeded	Zakupy przywrócone.
+pl	store_restore_nothing	Brak zakupów do przywrócenia.
+pl	store_restore_failed	Nie udało się przywrócić zakupów. Spróbuj ponownie.
+pl	support.feedback_subject	{0} Opinie {1}
+pl	support.unknown	Nieznane
+en	tutorial.level1.match_colors	<color=#27A9E8>Tap</color> a <color=red>marble box</color> and match its color with the box below.
+tr	tutorial.level1.match_colors	Bir <color=red>misket kutusuna</color> <color=#27A9E8>dokun</color> ve rengini alttaki kutuyla eşleştir.
+pt-BR	tutorial.level1.match_colors	<color=#27A9E8>Toque</color> numa <color=red>caixa de bolinhas</color> e combine a cor com a caixa abaixo.
+id	tutorial.level1.match_colors	<color=#27A9E8>Ketuk</color> <color=red>kotak kelereng</color> dan cocokkan warnanya dengan kotak di bawah.
+de	tutorial.level1.match_colors	<color=#27A9E8>Tippe</color> auf eine <color=red>Kugelbox</color> und fülle die gleichfarbige Box unten.
+fr	tutorial.level1.match_colors	<color=#27A9E8>Touche</color> une <color=red>boîte de billes</color> et associe sa couleur à celle de la boîte du bas.
+es	tutorial.level1.match_colors	<color=#27A9E8>Toca</color> una <color=red>caja de canicas</color> y combina su color con la caja de abajo.
+it	tutorial.level1.match_colors	<color=#27A9E8>Tocca</color> una <color=red>scatola di biglie</color> e abbina il colore alla scatola in basso.
+pt-PT	tutorial.level1.match_colors	<color=#27A9E8>Toca</color> numa <color=red>caixa de berlindes</color> e combina a cor com a caixa em baixo.
+pl	tutorial.level1.match_colors	<color=#27A9E8>Dotknij</color> <color=red>pudełka z kulkami</color> i dopasuj kolor do pudełka poniżej.
+ar	tutorial.level1.match_colors	<color=#27A9E8>اضغط</color> على <color=red>صندوق كرات</color> وطابق لونه مع الصندوق بالأسفل.
+en	tutorial.hand.select_source	<color=#27A9E8>Select</color> a <color=red>marble box</color> to send its marbles to the <color=red>matching boxes</color>.
+tr	tutorial.hand.select_source	Misketlerini <color=red>eşleşen kutulara</color> göndermek için bir <color=red>misket kutusu</color> <color=#27A9E8>seç</color>.
+pt-BR	tutorial.hand.select_source	<color=#27A9E8>Selecione</color> uma <color=red>caixa de bolinhas</color> para enviá-las às <color=red>caixas da mesma cor</color>.
+id	tutorial.hand.select_source	<color=#27A9E8>Pilih</color> <color=red>kotak kelereng</color> untuk mengirim isinya ke <color=red>kotak sewarna</color>.
+de	tutorial.hand.select_source	<color=#27A9E8>Wähle</color> eine <color=red>Kugelbox</color>, um ihre Kugeln in <color=red>gleichfarbige Boxen</color> zu senden.
+fr	tutorial.hand.select_source	<color=#27A9E8>Choisis</color> une <color=red>boîte de billes</color> pour les envoyer aux <color=red>boîtes de même couleur</color>.
+es	tutorial.hand.select_source	<color=#27A9E8>Elige</color> una <color=red>caja de canicas</color> para enviarlas a las <color=red>cajas del mismo color</color>.
+it	tutorial.hand.select_source	<color=#27A9E8>Scegli</color> una <color=red>scatola di biglie</color> per inviarle alle <color=red>scatole dello stesso colore</color>.
+pt-PT	tutorial.hand.select_source	<color=#27A9E8>Seleciona</color> uma <color=red>caixa de berlindes</color> para os enviar às <color=red>caixas da mesma cor</color>.
+pl	tutorial.hand.select_source	<color=#27A9E8>Wybierz</color> <color=red>pudełko z kulkami</color>, by wysłać je do <color=red>pudełek w tym samym kolorze</color>.
+ar	tutorial.hand.select_source	<color=#27A9E8>اختر</color> <color=red>صندوق كرات</color> لإرسال كراته إلى <color=red>الصناديق المطابقة</color>.
+en	tutorial.shuffle.description	<color=#27A9E8>Shuffle</color> the <color=red>target boxes</color> to create <color=red>better matches</color>
+tr	tutorial.shuffle.description	<color=red>Daha iyi eşleşmeler</color> için <color=red>hedef kutularını</color> <color=#27A9E8>karıştır</color>
+pt-BR	tutorial.shuffle.description	<color=#27A9E8>Embaralhe</color> as <color=red>caixas-alvo</color> para criar <color=red>melhores combinações</color>
+id	tutorial.shuffle.description	<color=#27A9E8>Acak</color> <color=red>kotak target</color> untuk <color=red>kecocokan yang lebih baik</color>
+de	tutorial.shuffle.description	<color=#27A9E8>Mische</color> die <color=red>Zielboxen</color> für <color=red>bessere Kombinationen</color>
+fr	tutorial.shuffle.description	<color=#27A9E8>Mélange</color> les <color=red>boîtes cibles</color> pour de <color=red>meilleures associations</color>
+es	tutorial.shuffle.description	<color=#27A9E8>Mezcla</color> las <color=red>cajas objetivo</color> para crear <color=red>mejores combinaciones</color>
+it	tutorial.shuffle.description	<color=#27A9E8>Mescola</color> le <color=red>scatole obiettivo</color> per creare <color=red>abbinamenti migliori</color>
+pt-PT	tutorial.shuffle.description	<color=#27A9E8>Baralha</color> as <color=red>caixas-alvo</color> para criar <color=red>melhores combinações</color>
+pl	tutorial.shuffle.description	<color=#27A9E8>Przetasuj</color> <color=red>pudełka docelowe</color>, by uzyskać <color=red>lepsze dopasowania</color>
+ar	tutorial.shuffle.description	<color=#27A9E8>اخلط</color> <color=red>الصناديق المستهدفة</color> للحصول على <color=red>تطابقات أفضل</color>
+en	tutorial.ufo.description	<color=#27A9E8>Clear</color> the <color=red>conveyor</color> by sending marbles to <color=red>matching boxes</color>
+tr	tutorial.ufo.description	Misketleri <color=red>eşleşen kutulara</color> göndererek <color=red>konveyörü</color> <color=#27A9E8>temizle</color>
+pt-BR	tutorial.ufo.description	<color=#27A9E8>Limpe</color> a <color=red>esteira</color> enviando bolinhas às <color=red>caixas da mesma cor</color>
+id	tutorial.ufo.description	<color=#27A9E8>Bersihkan</color> <color=red>konveyor</color> dengan mengirim kelereng ke <color=red>kotak sewarna</color>
+de	tutorial.ufo.description	<color=#27A9E8>Leere</color> das <color=red>Förderband</color>, indem du Kugeln in <color=red>passende Boxen</color> schickst
+fr	tutorial.ufo.description	<color=#27A9E8>Vide</color> le <color=red>convoyeur</color> en envoyant les billes aux <color=red>boîtes de même couleur</color>
+es	tutorial.ufo.description	<color=#27A9E8>Vacía</color> la <color=red>cinta</color> enviando canicas a <color=red>cajas del mismo color</color>
+it	tutorial.ufo.description	<color=#27A9E8>Libera</color> il <color=red>nastro</color> inviando biglie alle <color=red>scatole dello stesso colore</color>
+pt-PT	tutorial.ufo.description	<color=#27A9E8>Limpa</color> o <color=red>tapete</color> enviando berlindes às <color=red>caixas da mesma cor</color>
+pl	tutorial.ufo.description	<color=#27A9E8>Opróżnij</color> <color=red>taśmę</color>, wysyłając kulki do <color=red>pudełek w tym samym kolorze</color>
+ar	tutorial.ufo.description	<color=#27A9E8>أفرغ</color> <color=red>السير</color> بإرسال الكرات إلى <color=red>الصناديق المطابقة</color>
+en	tutorial.first_cleanup	Use <color=#27A9E8>Clean Up</color> to make space on the conveyor. It’s <color=#42B96B>FREE</color> this time!
+tr	tutorial.first_cleanup	<color=#27A9E8>Temizle</color> ile konveyörde yer aç. Bu kez <color=#42B96B>ÜCRETSİZ</color>!
+pt-BR	tutorial.first_cleanup	Use <color=#27A9E8>Limpar</color> para liberar espaço na esteira. Desta vez é <color=#42B96B>GRÁTIS</color>!
+id	tutorial.first_cleanup	Gunakan <color=#27A9E8>Bersihkan</color> untuk memberi ruang di konveyor. Kali ini <color=#42B96B>GRATIS</color>!
+de	tutorial.first_cleanup	Schaffe mit <color=#27A9E8>Aufräumen</color> Platz auf dem Förderband. Diesmal <color=#42B96B>GRATIS</color>!
+fr	tutorial.first_cleanup	Utilise <color=#27A9E8>Nettoyer</color> pour libérer le convoyeur. C’est <color=#42B96B>GRATUIT</color> cette fois !
+es	tutorial.first_cleanup	Usa <color=#27A9E8>Limpiar</color> para hacer sitio en la cinta. ¡Esta vez es <color=#42B96B>GRATIS</color>!
+it	tutorial.first_cleanup	Usa <color=#27A9E8>Pulisci</color> per fare spazio sul nastro. Questa volta è <color=#42B96B>GRATIS</color>!
+pt-PT	tutorial.first_cleanup	Usa <color=#27A9E8>Limpar</color> para libertar espaço no tapete. Desta vez é <color=#42B96B>GRÁTIS</color>!
+pl	tutorial.first_cleanup	Użyj <color=#27A9E8>Sprzątania</color>, by zwolnić miejsce na taśmie. Tym razem <color=#42B96B>ZA DARMO</color>!
+ar	tutorial.first_cleanup	استخدم <color=#27A9E8>التنظيف</color> لإفساح مكان على السير. هذه المرة <color=#42B96B>مجاناً</color>!
+en	cleanup.free	FREE
+tr	cleanup.free	ÜCRETSİZ
+pt-BR	cleanup.free	GRÁTIS
+id	cleanup.free	GRATIS
+de	cleanup.free	GRATIS
+fr	cleanup.free	GRATUIT
+es	cleanup.free	GRATIS
+it	cleanup.free	GRATIS
+pt-PT	cleanup.free	GRÁTIS
+pl	cleanup.free	ZA DARMO
+ar	cleanup.free	مجاناً

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e88dae423ac4474a984739ebf78d891, type: 3}
+  m_Name: BoardFeatureCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::Gameplay.BoardFeatures.BoardFeatureCatalog
+  sourceBoxPrefab: {fileID: 8642012552057483608, guid: 38a15ddbc41f16b48ae6d49fd9f5bfbb, type: 3}
+  spawnerPrefab: {fileID: 7542595598918072053, guid: ad2a2834abf67ed4696df2070cd216b7, type: 3}
+  giftBoxPrefab: {fileID: 4973150669615805969, guid: f154443fb7368c74c86032de15948812, type: 3}
+  cratePrefab: {fileID: 2361296752278329636, guid: 88e7f57e533e5454bada50166530fc1c, type: 3}
+  panelPrefab: {fileID: -5511944965871276592, guid: aebc863bfc4e32a4e88518df37027b98, type: 3}
+  arrowBoxPrefab: {fileID: 8613347290123456789, guid: ce744559e4ff6ff44ba2f5d11a3e6a95, type: 3}
+  keyPrefab: {fileID: 4819372640021846101, guid: 49b79d31768b37e469ad5b674e0eb695, type: 3}
+  lockPrefab: {fileID: 2354771981431068128, guid: 9267b34f64d52fb4690355d51a09ad21, type: 3}
+  multiplierGatePrefab: {fileID: 7609209483950421914, guid: 5917065883c0bb6428452f9168bc31d5, type: 3}
+  connectionPrefab: {fileID: 1699745843069139336, guid: 65ff618921aeafb4b9e28a52382c1d78, type: 3}
+  connectedBoxClosedStrokePrefab: {fileID: 3058843613714008642, guid: 6b083d39839549d45989ad2bb22feaca, type: 3}
+  connectedBoxOpenStrokePrefab: {fileID: 2690682575025481512, guid: 57711d873d54af34180947314e64872d, type: 3}
+  marblePrefab: {fileID: 6014003287038290471, guid: 11fdab4ef75b7e94b89cc247f6867606, type: 3}
+  mysterySourceBoxSprite: {fileID: 21300000, guid: 755cb80f0c2a838409830345201fcd47, type: 3}
+  downSprite: {fileID: 21300000, guid: e81682ad601aeab4fbd7b12bf1c3063b, type: 3}
+  horizontalSprite: {fileID: 21300000, guid: d2403883d39ff9247ab256a6779bc812, type: 3}

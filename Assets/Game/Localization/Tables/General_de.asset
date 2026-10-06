@@ -1,0 +1,379 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 411b1d80a68766046a3dca376d8090e2, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2390330952057618539
+  m_TableData:
+  - m_Id: 880000000000000035
+    m_Localized: x{quantity}
+    m_Metadata:
+      m_Items:
+      - rid: 2390330952057618539
+  - m_Id: 880000000000000036
+    m_Localized: Level {level}
+    m_Metadata:
+      m_Items:
+      - rid: 2390330952057618539
+  - m_Id: 880000000000000037
+    m_Localized: LEVEL {level} GESCHAFFT!
+    m_Metadata:
+      m_Items:
+      - rid: 2390330952057618539
+  - m_Id: 880000000000000041
+    m_Localized: LEVEL {level}
+    m_Metadata:
+      m_Items:
+      - rid: 2390330952057618539
+  - m_Id: 20532064256
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114677411840
+    m_Localized: Nochmal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 456404135936
+    m_Localized: Spielfeld voll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2808670482432
+    m_Localized: Laden...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415929604141056
+    m_Localized: Spielfeld voll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419233239298048
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000001
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000002
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000003
+    m_Localized: "Demn\xE4chst"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000004
+    m_Localized: Spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000005
+    m_Localized: WERBEFREI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000006
+    m_Localized: WERBEFREI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000007
+    m_Localized: Entferne Werbeunterbrechungen dauerhaft!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000008
+    m_Localized: Spiele auch ohne Internetverbindung!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000009
+    m_Localized: Belohnungsanzeigen optional.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000010
+    m_Localized: KAUF ABGEBROCHEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000011
+    m_Localized: Kauf abgebrochen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000012
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000013
+    m_Localized: "K\xE4ufe wiederherstellen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000014
+    m_Localized: Kontakt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000015
+    m_Localized: Datenschutz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000016
+    m_Localized: "Zum Men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000017
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000018
+    m_Localized: Ton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000019
+    m_Localized: EINSTELLUNGEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000020
+    m_Localized: "F\xFClle deine Leben auf!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000021
+    m_Localized: HOLEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000022
+    m_Localized: "Auff\xFCllen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000023
+    m_Localized: "N\xE4chstes Leben:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000024
+    m_Localized: +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000025
+    m_Localized: VOLL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000026
+    m_Localized: SCHWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000027
+    m_Localized: SEHR SCHWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000028
+    m_Localized: x3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000029
+    m_Localized: Goldpakete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000030
+    m_Localized: Starte durch mit Gold und starken Boostern!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000031
+    m_Localized: Ein toller Start!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000032
+    m_Localized: Starterpaket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000033
+    m_Localized: "Entferne st\xF6rende Werbung dauerhaft!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000034
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000038
+    m_Localized: BELOHNUNGEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000039
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000040
+    m_Localized: Bonus x2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000042
+    m_Localized: Verloren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000043
+    m_Localized: Nochmal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000044
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000045
+    m_Localized: Aufgeben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000046
+    m_Localized: Aufgeben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000047
+    m_Localized: Du verlierst 1 Leben!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000048
+    m_Localized: HAND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000049
+    m_Localized: "W\xE4hle eine beliebige Box und nutze sie sofort."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000050
+    m_Localized: MISCHEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000051
+    m_Localized: Mische die Boxen neu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000052
+    m_Localized: UFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000053
+    m_Localized: "Entferne die Kugeln vom F\xF6rderband."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000054
+    m_Localized: "Aufr\xE4umen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000055
+    m_Localized: Beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000056
+    m_Localized: KEIN PLATZ!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000057
+    m_Localized: "R\xE4ume das Spielfeld auf und schaffe Platz zum Weiterspielen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000058
+    m_Localized: Weiter!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000059
+    m_Localized: Sonderangebot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000060
+    m_Localized: Kostenlos weiterspielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000061
+    m_Localized: Lv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21084741340917760
+    m_Localized: HOLEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810227343360
+    m_Localized: KEINE VERBINDUNG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810277675008
+    m_Localized: "Internet ist erforderlich.\nBitte pr\xFCfe, ob deine\nVerbindung
+      aktiv ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810277675009
+    m_Localized: Neu laden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018821926912
+    m_Localized: Kauf fehlgeschlagen. Nochmal versuchen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869952
+    m_Localized: Kauf wartet auf Genehmigung.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869953
+    m_Localized: "K\xE4ufe wiederhergestellt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869954
+    m_Localized: Nichts wiederherzustellen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869955
+    m_Localized: "K\xE4ufe nicht wiederhergestellt. Nochmal versuchen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869956
+    m_Localized: '{0} Feedback {1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869957
+    m_Localized: Unbekannt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29065322175557632
+    m_Localized: "<color=#27A9E8>Tippe</color> auf eine <color=red>Kugelbox</color>
+      und f\xFClle die gleichfarbige Box unten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29070949941669888
+    m_Localized: "<color=#27A9E8>W\xE4hle</color> eine <color=red>Kugelbox</color>,
+      um ihre Kugeln in <color=red>gleichfarbige Boxen</color> zu senden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29073249057796096
+    m_Localized: "<color=#27A9E8>Mische</color> die <color=red>Zielboxen</color>
+      f\xFCr <color=red>bessere Kombinationen</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29076064635351040
+    m_Localized: "<color=#27A9E8>Leere</color> das <color=red>F\xF6rderband</color>,
+      indem du Kugeln in <color=red>passende Boxen</color> schickst"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29083654014529536
+    m_Localized: "Schaffe mit <color=#27A9E8>Aufr\xE4umen</color> Platz auf dem F\xF6rderband.
+      Diesmal <color=#42B96B>GRATIS</color>!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29083654043889664
+    m_Localized: GRATIS
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2390330952057618539
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 880000000000000035
+        - id: 880000000000000036
+        - id: 880000000000000037
+        - id: 880000000000000041

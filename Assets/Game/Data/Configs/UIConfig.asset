@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb29664bebf46bd8374f6079c53e061, type: 3}
+  m_Name: UIConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Shared.UI.UIConfig
+  internetReachabilityCheckIntervalSeconds: 1
+  panelInitialScale: 0.975
+  panelOvershootScale: 1.025
+  panelGrowDuration: 0.14
+  panelSettleDuration: 0.1
+  panelCloseDuration: 0.1
+  panelGrowEase: 6
+  panelSettleEase: 27
+  panelCloseEase: 5
+  buttonPressedScale: 0.95
+  buttonReleaseOvershootScale: 1.05
+  buttonPressDuration: 0.08
+  buttonOvershootDuration: 0.1
+  buttonReturnDuration: 0.1
+  buttonPressEase: 6
+  buttonOvershootEase: 6
+  buttonReturnEase: 27

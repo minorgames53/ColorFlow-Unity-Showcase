@@ -1,0 +1,379 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_pt-BR
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 411b1d80a68766046a3dca376d8090e2, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 930000000000000004
+  m_TableData:
+  - m_Id: 114677411840
+    m_Localized: Repetir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20532064256
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 456404135936
+    m_Localized: Tabuleiro cheio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2808670482432
+    m_Localized: Carregando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415929604141056
+    m_Localized: Tabuleiro cheio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419233239298048
+    m_Localized: "n\xEDvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000001
+    m_Localized: Loja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000002
+    m_Localized: "In\xEDcio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000003
+    m_Localized: Em breve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000004
+    m_Localized: Jogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000005
+    m_Localized: "SEM AN\xDANCIOS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000006
+    m_Localized: "SEM AN\xDANCIOS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000007
+    m_Localized: "Remova an\xFAncios que interrompem o jogo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000008
+    m_Localized: "Jogue sem conex\xE3o com a internet!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000009
+    m_Localized: "An\xFAncios premiados s\xE3o opcionais."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000010
+    m_Localized: COMPRA CANCELADA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000011
+    m_Localized: Compra cancelada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000012
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000013
+    m_Localized: Restaurar compras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000014
+    m_Localized: Fale conosco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000015
+    m_Localized: Privacidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000016
+    m_Localized: Voltar ao menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000017
+    m_Localized: "Vibra\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000018
+    m_Localized: Sons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000019
+    m_Localized: "CONFIGURA\xC7\xD5ES"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000020
+    m_Localized: Recarregue suas vidas!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000021
+    m_Localized: PEGAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000022
+    m_Localized: Recarregar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000023
+    m_Localized: "Pr\xF3xima vida em:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000024
+    m_Localized: +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000025
+    m_Localized: "M\xC1X."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000026
+    m_Localized: "DIF\xCDCIL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000027
+    m_Localized: "MUITO DIF\xCDCIL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000028
+    m_Localized: x3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000029
+    m_Localized: Packs de ouro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000030
+    m_Localized: "Comece r\xE1pido com ouro e refor\xE7os poderosos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000031
+    m_Localized: "Um \xF3timo come\xE7o!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000032
+    m_Localized: Pacote inicial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000033
+    m_Localized: "Remova an\xFAncios irritantes de vez!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000034
+    m_Localized: Loja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000035
+    m_Localized: x{quantity}
+    m_Metadata:
+      m_Items:
+      - rid: 930000000000000004
+  - m_Id: 880000000000000036
+    m_Localized: Fase {level}
+    m_Metadata:
+      m_Items:
+      - rid: 930000000000000004
+  - m_Id: 880000000000000037
+    m_Localized: "FASE {level} CONCLU\xCDDA!"
+    m_Metadata:
+      m_Items:
+      - rid: 930000000000000004
+  - m_Id: 880000000000000038
+    m_Localized: RECOMPENSAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000039
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000040
+    m_Localized: "Pr\xEAmio x2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000041
+    m_Localized: FASE {level}
+    m_Metadata:
+      m_Items:
+      - rid: 930000000000000004
+  - m_Id: 880000000000000042
+    m_Localized: Perdeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000043
+    m_Localized: Repetir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000044
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000045
+    m_Localized: Desistir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000046
+    m_Localized: Desistir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000047
+    m_Localized: "Voc\xEA perder\xE1 1 vida!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000048
+    m_Localized: "M\xC3O"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000049
+    m_Localized: Escolha uma caixa e use na hora.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000050
+    m_Localized: EMBARALHAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000051
+    m_Localized: Embaralhe as caixas e crie uma nova ordem!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000052
+    m_Localized: OVNI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000053
+    m_Localized: Limpe as bolinhas da esteira.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000054
+    m_Localized: Limpar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000055
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000056
+    m_Localized: "SEM ESPA\xC7O!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000057
+    m_Localized: "Limpe o tabuleiro e libere espa\xE7o para continuar jogando."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000058
+    m_Localized: Continuar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000059
+    m_Localized: Oferta Especial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000060
+    m_Localized: "Continue a fase de gra\xE7a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000061
+    m_Localized: Nv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21084741340917760
+    m_Localized: OBTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810227343360
+    m_Localized: "SEM CONEX\xC3O"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810277675008
+    m_Localized: "\xC9 preciso estar online.\nVerifique se voc\xEA tem\numa conex\xE3o
+      ativa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810277675009
+    m_Localized: Atualizar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018821926912
+    m_Localized: Falha na compra. Tente de novo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869952
+    m_Localized: "Compra aguardando aprova\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869953
+    m_Localized: Compras restauradas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869954
+    m_Localized: Nada para restaurar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869955
+    m_Localized: "N\xE3o foi poss\xEDvel restaurar as compras. Tente de novo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869956
+    m_Localized: "{0} Coment\xE1rios {1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869957
+    m_Localized: Desconhecido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29065322175557632
+    m_Localized: <color=#27A9E8>Toque</color> numa <color=red>caixa de bolinhas</color>
+      e combine a cor com a caixa abaixo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29070949941669888
+    m_Localized: "<color=#27A9E8>Selecione</color> uma <color=red>caixa de bolinhas</color>
+      para envi\xE1-las \xE0s <color=red>caixas da mesma cor</color>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29073249057796096
+    m_Localized: "<color=#27A9E8>Embaralhe</color> as <color=red>caixas-alvo</color>
+      para criar <color=red>melhores combina\xE7\xF5es</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29076064635351040
+    m_Localized: "<color=#27A9E8>Limpe</color> a <color=red>esteira</color> enviando
+      bolinhas \xE0s <color=red>caixas da mesma cor</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29083654014529536
+    m_Localized: "Use <color=#27A9E8>Limpar</color> para liberar espa\xE7o na esteira.
+      Desta vez \xE9 <color=#42B96B>GR\xC1TIS</color>!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29083654043889664
+    m_Localized: "GR\xC1TIS"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 930000000000000004
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 880000000000000035
+        - id: 880000000000000036
+        - id: 880000000000000037
+        - id: 880000000000000041

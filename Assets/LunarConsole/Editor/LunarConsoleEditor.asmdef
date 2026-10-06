@@ -1,0 +1,11 @@
+﻿{
+  "name": "LunarConsoleEditor",
+  "references": [
+    "LunarConsole",
+    "UnityEditor.UI",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

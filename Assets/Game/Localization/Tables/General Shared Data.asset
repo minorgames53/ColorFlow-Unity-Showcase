@@ -1,0 +1,364 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: General Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: General
+  m_TableCollectionNameGuidString: 411b1d80a68766046a3dca376d8090e2
+  m_Entries:
+  - m_Id: 20532064256
+    m_Key: ui_continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114677411840
+    m_Key: ui_try_again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 456404135936
+    m_Key: game_board_is_full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2808670482432
+    m_Key: boot_loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415929604141056
+    m_Key: gameboard_is_full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419233239298048
+    m_Key: ui_level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000001
+    m_Key: menu.nav.shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000002
+    m_Key: menu.nav.home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000003
+    m_Key: menu.nav.coming_soon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000004
+    m_Key: menu.play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000005
+    m_Key: no_ads.cta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000006
+    m_Key: no_ads.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000007
+    m_Key: no_ads.remove_interstitials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000008
+    m_Key: no_ads.offline_play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000009
+    m_Key: no_ads.rewarded_ads_remain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000010
+    m_Key: store.purchase_cancelled.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000011
+    m_Key: store.purchase_cancelled.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000012
+    m_Key: common.ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000013
+    m_Key: settings.restore_purchases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000014
+    m_Key: settings.contact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000015
+    m_Key: settings.privacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000016
+    m_Key: settings.return_to_menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000017
+    m_Key: settings.haptics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000018
+    m_Key: settings.sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000019
+    m_Key: settings.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000020
+    m_Key: life.refill.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000021
+    m_Key: life.refill.watch_ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000022
+    m_Key: life.refill.fill_now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000023
+    m_Key: life.refill.next_label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000024
+    m_Key: life.rewarded.amount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000025
+    m_Key: life.full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000026
+    m_Key: level.difficulty.hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000027
+    m_Key: level.difficulty.very_hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000028
+    m_Key: shop.starter_pack.quantity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000029
+    m_Key: shop.gold_packs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000030
+    m_Key: shop.starter_pack.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000031
+    m_Key: shop.starter_pack.tagline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000032
+    m_Key: shop.starter_pack.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000033
+    m_Key: shop.no_ads.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000034
+    m_Key: shop.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000035
+    m_Key: common.quantity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000036
+    m_Key: hud.level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000037
+    m_Key: win.level_complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000038
+    m_Key: win.rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000039
+    m_Key: win.continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000040
+    m_Key: win.reward_multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000041
+    m_Key: lose.level_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000042
+    m_Key: lose.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000043
+    m_Key: lose.try_again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000044
+    m_Key: lose.continue_to_menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000045
+    m_Key: give_up.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000046
+    m_Key: give_up.confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000047
+    m_Key: give_up.life_warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000048
+    m_Key: booster.hand.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000049
+    m_Key: booster.hand.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000050
+    m_Key: booster.shuffle.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000051
+    m_Key: booster.shuffle.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000052
+    m_Key: booster.ufo.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000053
+    m_Key: booster.ufo.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000054
+    m_Key: cleanup_offer.cleanup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000055
+    m_Key: cleanup_offer.quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000056
+    m_Key: fail_offer.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000057
+    m_Key: fail_offer.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000058
+    m_Key: fail_offer.play_on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000059
+    m_Key: fail_offer.offer_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000060
+    m_Key: fail_offer.free_cleanup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880000000000000061
+    m_Key: booster.unlock_level_prefix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21084741340917760
+    m_Key: booster.claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810227343360
+    m_Key: no_connection.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810277675008
+    m_Key: no_connection.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26453810277675009
+    m_Key: no_connection.refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018821926912
+    m_Key: store_purchase_failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869952
+    m_Key: store_purchase_deferred
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869953
+    m_Key: store_restore_succeeded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869954
+    m_Key: store_restore_nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869955
+    m_Key: store_restore_failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869956
+    m_Key: support.feedback_subject
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28618018863869957
+    m_Key: support.unknown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29065322175557632
+    m_Key: tutorial.level1.match_colors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29070949941669888
+    m_Key: tutorial.hand.select_source
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29073249057796096
+    m_Key: tutorial.shuffle.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29076064635351040
+    m_Key: tutorial.ufo.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29083654014529536
+    m_Key: tutorial.first_cleanup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29083654043889664
+    m_Key: cleanup.free
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 102648870087426161
+  references:
+    version: 2
+    RefIds:
+    - rid: 102648870087426161
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1782722450976

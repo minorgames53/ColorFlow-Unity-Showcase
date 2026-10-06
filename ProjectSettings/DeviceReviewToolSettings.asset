@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cfbe49ee778744d82c51849ae630eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Game.EditorTools.DeviceReview.DeviceReviewSettings
+  phones:
+  - enabled: 1
+    displayName: Apple iPhone 13 Pro
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/apple iphone
+      13 pro.device
+  - enabled: 1
+    displayName: Apple iPhone SE (2nd generation)
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/apple iphone
+      se (2nd generation).device
+  - enabled: 1
+    displayName: Apple iPhone 8
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/apple iphone
+      8.device
+  - enabled: 1
+    displayName: Apple iPhone 13 Pro Max
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/apple iphone
+      13 pro max.device
+  - enabled: 1
+    displayName: Google Pixel XL
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/google
+      pixel x.device
+  - enabled: 1
+    displayName: Samsung Galaxy Z Flip3 5G
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/samsung
+      galaxy z flip3 5g.device
+  - enabled: 1
+    displayName: Huawei P40 Pro
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/huawei
+      p40 pro.device
+  tablets:
+  - enabled: 1
+    displayName: Apple iPad Pro 12.9 (2018)
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/apple ipad
+      pro 12.9 (2018).device
+  - enabled: 1
+    displayName: Apple iPad Pro 11
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/apple ipad
+      pro 11.device
+  - enabled: 1
+    displayName: Sony Xperia Z2 Tablet
+    deviceKey: packages/com.unity.device-simulator.devices/editor/devices/soony xperia
+      z2 tablet.device
+  waitBetweenDevices: 1
+  activeContext: 0

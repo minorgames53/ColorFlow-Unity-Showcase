@@ -1,0 +1,834 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ade6161f27647c94faf9f1382fea5ebe, type: 3}
+  m_Name: Level_113
+  m_EditorClassIdentifier: Assembly-CSharp::Gameplay.Levels.LevelDefinition
+  levelNumber: 113
+  difficulty: 0
+  rowCount: 7
+  columnCount: 7
+  includeInLoop: 1
+  cells:
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 1
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 17
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 10
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 17
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 14
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 2
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 7
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 14
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 7
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 3
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 15
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 1
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 11
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 16
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 11
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 4
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 14
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 4
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 14
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 16
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 2
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 3
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 18
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 6
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 18
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 2
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 4
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 10
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 3
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 30
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 15
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 10
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 32
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 6
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 30
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 1
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 1
+    colorId: 6
+    marbleCount: 9
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: 32
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  - cellType: 0
+    colorId: 0
+    marbleCount: 0
+    isMysterySourceBox: 0
+    spawnDirection: 0
+    spawnSequence: []
+    giftBoxContents: []
+    connectedBoxPairId: -1
+    arrowDirection: -1
+    hasKey: 0
+  crates: []
+  panels: []
+  gates: []
+  targetBoxLanes:
+  - boxes:
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 15
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 14
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 5
+      isLocked: 0
+    - colorId: 16
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 14
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 14
+      isMystery: 0
+      connectedTargetGroupId: 1
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 2
+      isLocked: 0
+    - colorId: 16
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 3
+      isLocked: 0
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    boxColors: 
+  - boxes:
+    - colorId: 17
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 16
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 17
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 16
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 14
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 17
+      isMystery: 0
+      connectedTargetGroupId: 4
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 14
+      isMystery: 0
+      connectedTargetGroupId: 5
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 1
+      isLocked: 0
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 15
+      isMystery: 0
+      connectedTargetGroupId: 2
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 3
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 15
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    boxColors: 
+  - boxes:
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 17
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 17
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 14
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 16
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 4
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 15
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 17
+      isMystery: 0
+      connectedTargetGroupId: 5
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 1
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 2
+      isLocked: 0
+    - colorId: 15
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 16
+      isMystery: 0
+      connectedTargetGroupId: 3
+      isLocked: 0
+    - colorId: 10
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    boxColors: 
+  - boxes:
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 4
+      isLocked: 0
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 15
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 5
+      isLocked: 0
+    - colorId: 6
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 1
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 4
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 2
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    - colorId: 3
+      isMystery: 0
+      connectedTargetGroupId: 0
+      isLocked: 0
+    boxColors: 

@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bc5160d39d664e4786f262e1f3c31ea, type: 3}
+  m_Name: Marble Color Catalog
+  m_EditorClassIdentifier: Assembly-CSharp::Gameplay.SourceBoxes.MarbleColorCatalog
+  entries:
+  - colorId: 1
+    sourceBoxSprite: {fileID: 21300000, guid: 7dafc5c96d4f6a34fb64d22e42a430a1, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: f3b6bd69080b49143923c776d224d3fc, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 652636e0650c4954cad8893b677bb095, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 37443a9d7003fa047b5f6032d0270992, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 75d399b8ff946dc418fc12039935ad80, type: 3}
+    connectedBoxConnectionTint: {r: 0.3372549, g: 0.6784314, b: 0.77647066, a: 1}
+    arrowStrokeTint: {r: 0.3372549, g: 0.6784314, b: 0.77647066, a: 1}
+  - colorId: 2
+    sourceBoxSprite: {fileID: 21300000, guid: 08b05f5ccaf0c784c975408c385e99a1, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 526fae2765066594a8ae8cdce3eed5b0, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 02bd5b75d9ffb184890da2650805aaad, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 47bc64adfe0f2a0479971aa790194f51, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 385980787f9c5c04ab5fd145a6b4b6db, type: 3}
+    connectedBoxConnectionTint: {r: 0.7960785, g: 0.6431373, b: 0, a: 1}
+    arrowStrokeTint: {r: 0.7960785, g: 0.6431373, b: 0, a: 1}
+  - colorId: 3
+    sourceBoxSprite: {fileID: 21300000, guid: a257b701f6c3801448ea30848f34dafc, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 9057cc61979c2164eac917133e7d4402, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 3ceb503371c9a9c4aa71a3044f03db87, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: ac56d277b9718ec4d9b243c775408fa7, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 81a69b8340fd46045af7dca0e2de5bc2, type: 3}
+    connectedBoxConnectionTint: {r: 0.68235296, g: 0.21176472, b: 0.29803923, a: 1}
+    arrowStrokeTint: {r: 0.68235296, g: 0.21176472, b: 0.29803923, a: 1}
+  - colorId: 4
+    sourceBoxSprite: {fileID: 21300000, guid: 028a22f5a6af63e4e8062fcaef9c9cd6, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 4a2b67c457c28f7408386b0f89374ab6, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 0eb2ba3cb6a780548b34e419b4b4c2f3, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 34555fd2253eba0429b02e6b20818aac, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: f25569e18c60b284e8686a0c70afe5c2, type: 3}
+    connectedBoxConnectionTint: {r: 0.058823533, g: 0.6666667, b: 0.40784317, a: 1}
+    arrowStrokeTint: {r: 0.058823533, g: 0.6666667, b: 0.40784317, a: 1}
+  - colorId: 5
+    sourceBoxSprite: {fileID: 21300000, guid: 2747d15bc80f70b499a76c567d0d0f16, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 65c787bcf635566498f0b06727c0cc0e, type: 3}
+    marbleSprite: {fileID: 21300000, guid: cd0f9967aa036e849aa042c7c23d789c, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 3248ec6275d6fc242ab405a5c3351f98, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: fe714beeedfa4c445943d3821d334576, type: 3}
+    connectedBoxConnectionTint: {r: 0.8000001, g: 0.45098042, b: 0, a: 1}
+    arrowStrokeTint: {r: 0.8000001, g: 0.45098042, b: 0, a: 1}
+  - colorId: 6
+    sourceBoxSprite: {fileID: 21300000, guid: 6718f51bf1e4a954d9fdbc0b54d4f093, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: ede925f6b5888194085acf11ce9119e4, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 528cd2b5713d5034ab45bd1cd7cacf8c, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 9dd50394e5185d347a6d8b682310bac7, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 0e4f4b6d2aee80c48889bccd9935f40c, type: 3}
+    connectedBoxConnectionTint: {r: 0.4666667, g: 0.227451, b: 0.77647066, a: 1}
+    arrowStrokeTint: {r: 0.4666667, g: 0.227451, b: 0.77647066, a: 1}
+  - colorId: 7
+    sourceBoxSprite: {fileID: 21300000, guid: 10e0cc65d66ae8043ad896f00f15f30d, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 93d466c88452b704488841c3c79744e6, type: 3}
+    marbleSprite: {fileID: 21300000, guid: db1f95aceeaf85340bfff059b48eefcc, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: b0113d7d5c9aac14ebaff67eefc8d1ec, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 2a57b95c2aee310449c74c7f1d89bbd2, type: 3}
+    connectedBoxConnectionTint: {r: 0.054901965, g: 0.65882355, b: 0.40000004, a: 1}
+    arrowStrokeTint: {r: 0.054901965, g: 0.65882355, b: 0.40000004, a: 1}
+  - colorId: 8
+    sourceBoxSprite: {fileID: 21300000, guid: a4c40d78baab90249b6db6696f7c1499, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 80d0e2ca7aebd9c42a87374f0bb2f227, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 9508f51132de592418cd8f6f20b44be1, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 2d78b75d61879434ea48cb852e5427c2, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: a19d6c447ab2b95488f990d5806d0ecc, type: 3}
+    connectedBoxConnectionTint: {r: 0.7843138, g: 0.5294118, b: 0.73333335, a: 1}
+    arrowStrokeTint: {r: 0.7843138, g: 0.5294118, b: 0.73333335, a: 1}
+  - colorId: 9
+    sourceBoxSprite: {fileID: 21300000, guid: 99dbb784ba0184148b0ef7979552bb67, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 21f35c13739894647882b4b46ae3638c, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 6f4a9e14219f4114bb9b4745982a67e7, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 53e8fa7dcbf4ffc4aa43e407aec276b4, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: a5caefbd91cffbd48a5e792346996360, type: 3}
+    connectedBoxConnectionTint: {r: 0.11764707, g: 0.2392157, b: 0.69803923, a: 1}
+    arrowStrokeTint: {r: 0.11764707, g: 0.2392157, b: 0.69803923, a: 1}
+  - colorId: 10
+    sourceBoxSprite: {fileID: 21300000, guid: 8fa4b66514119724ebd129ee64169743, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 6e01994056c7a594dbeb69a29a5c0985, type: 3}
+    marbleSprite: {fileID: 21300000, guid: f36f7ba4b878c4342b9be9915031bf03, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: d92981b8231a3af4ab77513a785a3324, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 5a2640325260e024dbd3a5258648d5a1, type: 3}
+    connectedBoxConnectionTint: {r: 0.5254902, g: 0.25882354, b: 0.17254902, a: 1}
+    arrowStrokeTint: {r: 0.5254902, g: 0.25882354, b: 0.17254902, a: 1}
+  - colorId: 11
+    sourceBoxSprite: {fileID: 21300000, guid: 1d0c46b0e736e9946abcefdf1a04d663, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 99105c8e2c1a490479f3a0fa92d75e70, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 68318ee8927bd8b4c9cb69c4bf80c7a3, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 197d760e712748f408b231b2843b4227, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 4a09dcd8e849e3d41b169fea240829b8, type: 3}
+    connectedBoxConnectionTint: {r: 0.06666667, g: 0.44313726, b: 0.18431373, a: 1}
+    arrowStrokeTint: {r: 0.06666667, g: 0.44313726, b: 0.18431373, a: 1}
+  - colorId: 12
+    sourceBoxSprite: {fileID: 21300000, guid: 27311eeff2ff9384a85fbaeabf9cddaa, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: e62d1449fb9d9fb42844b99b781505ed, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 6e70abd9a7fc3bd4398d2933e814d6e9, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: bf0357793080d0148bcdf37ff6b156f8, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: cf522c4420ca8af459980821eb0e27a3, type: 3}
+    connectedBoxConnectionTint: {r: 0.3019608, g: 0.2901961, b: 0.32941177, a: 1}
+    arrowStrokeTint: {r: 0.3019608, g: 0.2901961, b: 0.32941177, a: 1}
+  - colorId: 13
+    sourceBoxSprite: {fileID: 21300000, guid: f85d3f90c3164e249a5b1fa61a182654, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: af5a74fddb8c57944bf1de554be472e3, type: 3}
+    marbleSprite: {fileID: 21300000, guid: c2994abb87e1729409476280d08e2150, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 03c198569ab095949b6809d170090b11, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 87e1b72c452cb2848be1d9859debd34c, type: 3}
+    connectedBoxConnectionTint: {r: 0.7529412, g: 0.8627451, b: 0.9254902, a: 1}
+    arrowStrokeTint: {r: 0.7529412, g: 0.8627451, b: 0.9254902, a: 1}
+  - colorId: 14
+    sourceBoxSprite: {fileID: 21300000, guid: 80dbd9eeab12a35439b8ac9fdc420363, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: ebb1345fe6e78624e94cd9bf51bfa479, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 5542b5a7ccaa00549a40478c2ffe0002, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: dd22788e65188a14c94c9464b90545a1, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 7f02902301e7682489e7028606dec6be, type: 3}
+    connectedBoxConnectionTint: {r: 0.5058824, g: 0.81960785, b: 0.15686275, a: 1}
+    arrowStrokeTint: {r: 0.5058824, g: 0.81960785, b: 0.15686275, a: 1}
+  - colorId: 15
+    sourceBoxSprite: {fileID: 21300000, guid: 60c63bb30f6e89446b1b1f368397cfef, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 5846baa1a551d6d4ba113e7b5b4e3e2d, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 27a7e3f7365668241a42666ea34a742e, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: e66d72d3b268bfa428f93c7783039b04, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: a145851cb004eb24cad7b318ceaf71a2, type: 3}
+    connectedBoxConnectionTint: {r: 0.7372549, g: 0.45882353, b: 1, a: 1}
+    arrowStrokeTint: {r: 0.7372549, g: 0.45882353, b: 1, a: 1}
+  - colorId: 16
+    sourceBoxSprite: {fileID: 21300000, guid: b986c8060f1f04b408f8b11df696b1b4, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 6017bcf214ef783489cedfd38daea1ef, type: 3}
+    marbleSprite: {fileID: 21300000, guid: afa07799080a50a43ae4819c49c2b501, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: d8382e9096aa0e24297f6e4cf899f29c, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 4519cd446da19ae409731422e98b5c76, type: 3}
+    connectedBoxConnectionTint: {r: 0.06666667, g: 0.6039216, b: 0.94509804, a: 1}
+    arrowStrokeTint: {r: 0.06666667, g: 0.6039216, b: 0.94509804, a: 1}
+  - colorId: 17
+    sourceBoxSprite: {fileID: 21300000, guid: 6a54f3f29f9fd134db3e4f1e3e9c100d, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: 3b916a6f75571944491eb8fa7f9a33b1, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 85c4bf0ca1b1b5f42943d27240135e22, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: dd38f7c74a096d04693bed91ab06ee53, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: 7246b96f2a861454b913ddd90f3ae060, type: 3}
+    connectedBoxConnectionTint: {r: 0.67058825, g: 0.14117648, b: 0.24313726, a: 1}
+    arrowStrokeTint: {r: 0.67058825, g: 0.14117648, b: 0.24313726, a: 1}
+  - colorId: 18
+    sourceBoxSprite: {fileID: 21300000, guid: 38596b6784d99c34a9e623de8d31ee90, type: 3}
+    lockedSourceBoxSprite: {fileID: 21300000, guid: d892ed889f2b51f4ba308082965328ba, type: 3}
+    marbleSprite: {fileID: 21300000, guid: 40b51450d1dd3154e8190bed5f24b76c, type: 3}
+    targetBoxActiveSprite: {fileID: 21300000, guid: 9fdfb88aa62fed542b31b9acf4337cd5, type: 3}
+    targetBoxPassiveSprite: {fileID: 21300000, guid: b9e5a7fb45cf1ee49b197568d74ad7b7, type: 3}
+    connectedBoxConnectionTint: {r: 0.4509804, g: 0.5568628, b: 0.59607846, a: 1}
+    arrowStrokeTint: {r: 0.4509804, g: 0.5568628, b: 0.59607846, a: 1}

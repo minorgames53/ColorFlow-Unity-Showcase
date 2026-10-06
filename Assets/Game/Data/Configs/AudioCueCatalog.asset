@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4887900ce1b329e408b6a934cb72776b, type: 3}
+  m_Name: AudioCueCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Shared.Audio.AudioCueCatalog
+  cues:
+  - key: 2
+    clip: {fileID: 8300000, guid: 3dfeb99295c639841a25b4dc4b6497b8, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 3
+    clip: {fileID: 8300000, guid: 60d4f0a7f37f5a14885ffbd914ddce29, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 4
+    clip: {fileID: 8300000, guid: 7809c76a340506a42b1d12bb1db15b0f, type: 3}
+    volume: 1
+    minimumInterval: 0.05
+  - key: 5
+    clip: {fileID: 0}
+    volume: 1
+    minimumInterval: 0
+  - key: 6
+    clip: {fileID: 8300000, guid: 3f5910bd2829d3140bd96abd49127279, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 7
+    clip: {fileID: 8300000, guid: d01a551c076e40e4a9ae8c89069f3a62, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 8
+    clip: {fileID: 8300000, guid: fe27ec2a376c5754097a453e0f71eda4, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 9
+    clip: {fileID: 8300000, guid: 7c9a9425e33181d46a3ccb037f173e8c, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 1
+    clip: {fileID: 8300000, guid: bf1ee124b61c48740a199dc261cfcb66, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 10
+    clip: {fileID: 8300000, guid: edfff197c3d185544891e59e9e685ba7, type: 3}
+    volume: 0.5
+    minimumInterval: 0
+  - key: 11
+    clip: {fileID: 8300000, guid: 12b823637e7263944bf45629717dcbab, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 12
+    clip: {fileID: 8300000, guid: c9ad6b7525019e343989242fdaa47c1b, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 13
+    clip: {fileID: 8300000, guid: 94ba3df155e094a44ab9baa2e45d0b33, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 14
+    clip: {fileID: 8300000, guid: 00360f46cffaf1940a52a480bdb4bfe1, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 15
+    clip: {fileID: 8300000, guid: 2d69822e59bbd1f439040e6a52056f6b, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 16
+    clip: {fileID: 8300000, guid: 15da5738d66cc4544b3c620c5e66a753, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 17
+    clip: {fileID: 8300000, guid: 4bb2be0e612b8c64a83efb6f0e764133, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 18
+    clip: {fileID: 8300000, guid: f2f9eb2128a13a14ead74e664f1e14de, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 19
+    clip: {fileID: 8300000, guid: 04950ba704e0e61449372b911d104ec9, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 20
+    clip: {fileID: 8300000, guid: b64057cf2c29c6747b720655d76327eb, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 21
+    clip: {fileID: 8300000, guid: 808af02a988c1944a889e675ebfcf730, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 22
+    clip: {fileID: 8300000, guid: 21f3cdfde7ff1444fa0c3ada6e22eec4, type: 3}
+    volume: 0.35
+    minimumInterval: 0
+  - key: 23
+    clip: {fileID: 8300000, guid: 6c7760ca21edd3946befe06c84ad74a3, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 24
+    clip: {fileID: 8300000, guid: 5cd19f3426bff5d4494f404ec27e38ba, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 25
+    clip: {fileID: 8300000, guid: 2e05567680136e24a9eef74758007713, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 26
+    clip: {fileID: 8300000, guid: ecb59b78cb3110549a9490bfc4816ad5, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 27
+    clip: {fileID: 8300000, guid: 91916c14fd8dace4a913994413ad0e48, type: 3}
+    volume: 1
+    minimumInterval: 0
+  - key: 28
+    clip: {fileID: 8300000, guid: 3422d295968d9c348be20fd28c673dc4, type: 3}
+    volume: 0.5
+    minimumInterval: 0.05
+  - key: 29
+    clip: {fileID: 8300000, guid: 3d05a2e0136d93345b24f15210777b01, type: 3}
+    volume: 0.5
+    minimumInterval: 0.05

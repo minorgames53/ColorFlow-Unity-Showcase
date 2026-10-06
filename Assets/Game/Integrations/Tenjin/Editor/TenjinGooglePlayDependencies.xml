@@ -1,0 +1,6 @@
+<dependencies>
+  <androidPackages>
+    <!-- Required by the Google Play attribution path; not bundled by Tenjin UPM. -->
+    <androidPackage spec="com.android.installreferrer:installreferrer:2.2" />
+  </androidPackages>
+</dependencies>
